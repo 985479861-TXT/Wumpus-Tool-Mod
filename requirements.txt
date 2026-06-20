@@ -1,0 +1,11 @@
+pystyle
+colorama
+requests
+selenium
+undetected-chromedriver
+Pillow
+aiohttp
+psutil
+websockets
+fade
+googlesearch-python
